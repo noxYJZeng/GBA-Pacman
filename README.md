@@ -54,6 +54,7 @@ This game is ready to run using a pre-configured Docker container that opens an 
     make mgba
 
 ### 🎵 Features 
+- **Music System**: Start screen with looping Super Mario Bros. theme
 - **Target System**: Targets appear from the right and slide left. Each collected pellet increases the score.
 - **Animated Player**: The Pacman sprite switches between two animation frames for a lively appearance.
 - **Idle Timeout**: A countdown timer in red tracks how long the player has not collected a pellet.
