@@ -44,10 +44,10 @@ This game is ready to run using a pre-configured Docker container that opens an 
    ```bash
    cd path/to/your/pacman-folder
 3. Run the platform-specific launch script:
-####On macOS or Linux:
+- On macOS or Linux:
     ```bash
     ./cs2110docker-gba.sh
-####on Windows
+- on Windows
     ```bash
     cs2110docker-gba
 4. Once inside the Docker container, build and run the game with:
