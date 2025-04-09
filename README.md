@@ -32,7 +32,6 @@ This game is ready to run using a pre-configured Docker container that opens an 
 
 ### ✅ Requirements
 
-- **Java 11+**
 - **Docker installed and running**
 - OS: macOS / Linux / Windows
 
